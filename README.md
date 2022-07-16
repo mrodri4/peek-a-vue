@@ -1,2 +1,2 @@
 # peek-a-vue
-Peek an image game
+Card matching game
